@@ -1,0 +1,6 @@
+add_subdirectory( nodeos )
+add_subdirectory( cleos )
+add_subdirectory( keosd )
+add_subdirectory( ngs-launcher )
+add_subdirectory( ngs-applesedemo )
+add_subdirectory( ngs-abigen )
