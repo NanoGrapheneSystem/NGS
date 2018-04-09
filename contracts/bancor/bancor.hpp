@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <ngslib/eos.hpp>
+#include <ngslib/ngs.hpp>
 #include <ngslib/token.hpp>
 #include <ngslib/reflect.hpp>
 #include <ngslib/generic_currency.hpp>
