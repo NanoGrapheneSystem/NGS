@@ -1,9 +1,9 @@
 /**
  *  @file
- *  @copyright defined in eos/LICENSE.txt
+ *  @copyright defined in ngs/LICENSE.txt
  */
 
-#include <eosiolib/eosio.hpp>
+#include <ngslib/ngs.hpp>
 
 namespace asserter {
    struct PACKED(assertdef) {
